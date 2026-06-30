@@ -1,16 +1,41 @@
-## Hi there 👋
+# miguelcarlosmouradossantos
 
-<!--
-**miguelcarlosmouradossantos/miguelcarlosmouradossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currículo Web desenvolvido para atividade da disciplina.
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou Miguel Moura
+ 
+## Sobre mim
+ 
+Sou estudante do Curso Técnico em Informática e estou aprendendo, Git, GitHub e Computação em Nuvem.
+ 
+## 💻 Habilidades
+ 
+| Tecnologia | Nível |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|------------|--------|
+
+| Git | Básico |
+
+| GitHub | Básico |
+
+| Markdown | Básico |
+
+| HTML | Básico |
+ 
+## 📋 Metas
+ 
+- [x] Criar minha conta no GitHub
+
+- [x] Criar meu README
+
+- [ ] Aprender mais sobre Git
+
+- [ ] Desenvolver novos projetos
+ 
+## 📫 Contato
+ 
+- GitHub: https://github.com/criador-sosorulim
+
+- E-mail: miguelcarlosmouradossantos@gmail.com
+
+ 
